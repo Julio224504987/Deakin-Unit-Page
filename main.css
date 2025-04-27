@@ -2,9 +2,8 @@
 
 h1 {
   font-size: 40px;
-  font-family: Arial, sans-serif;
+  font-family: Arial
 }
-
 h2 {
   font-size: 25px;
   font-family: Arial
@@ -17,8 +16,4 @@ p {
   font-family: Arial
 }
 
-.site-header {
-  background-color: blue;
-  text-align: right;
-  padding: 1rem;
-}
+
